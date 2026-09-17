@@ -7,7 +7,7 @@
 
 ## Android 开发路线图
 
-![](roadmap.png)
+![Android 开发路线图](roadmap.png)
 
 ## 贡献👏
 
